@@ -1,0 +1,31 @@
+_repo: The-History-of-the-Fabian-Society_13715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pease, Edward R. (Edward Reynolds)
+    birthdate: 1857
+    deathdate: 1955
+    gutenberg_agent_id: '5193'
+    url: http://www.gutenberg.org/2009/agents/5193
+    wikipedia: http://en.wikipedia.org/wiki/Edward_R._Pease
+description: Published in 1916, this history of the influential British socialist
+  movement known as the Fabian Society, which favored the imposition of socialism
+  by slow, incremental, and peaceful steps rather than violent revolution, was written
+  by a founder and long-time secretary of the Society.
+gutenberg_issued: '2004-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fabian Society (Great Britain)'
+- !lcsh 'Socialism -- Great Britain'
+- !lcc 'HX'
+title: The History of the Fabian Society
+url: http://www.gutenberg.org/ebooks/13715
